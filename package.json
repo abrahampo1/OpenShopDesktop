@@ -1,0 +1,31 @@
+{
+  "name": "rodatpv",
+  "version": "1.0.1",
+  "description": "TPV executable",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahampo1/rodatpv.git"
+  },
+  "keywords": [
+    "TPV"
+  ],
+  "author": "Abraham Leiro Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahampo1/rodatpv/issues"
+  },
+  "homepage": "https://github.com/abrahampo1/rodatpv#readme",
+  "devDependencies": {
+    "electron": "^20.2.0"
+  },
+  "dependencies": {
+    "@electron/remote": "^2.0.8",
+    "electron-pos-printer": "^1.2.4",
+    "interactjs": "^1.10.17",
+    "jquery": "^3.6.1"
+  }
+}
