@@ -26,6 +26,7 @@
     "@electron/remote": "^2.0.8",
     "electron-pos-printer": "^1.2.4",
     "interactjs": "^1.10.17",
-    "jquery": "^3.6.1"
+    "jquery": "^3.6.1",
+    "kioskboard": "^2.2.0"
   }
 }
